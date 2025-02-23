@@ -1,2 +1,3 @@
 This is my first git repository.
-Author - Aryan GoelPost - Network system manager
+Author - Aryan Goel
+Post - Network system manager
