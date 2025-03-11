@@ -1,2 +1,2 @@
-This is my first git repository.
-Author - Aryan Goel
+# My Project
+This project demonstrates Git features.
